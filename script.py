@@ -4,7 +4,7 @@
 
 # version : 1.0
 
-User = input("Your username : ")
+User = input("Your password : ")
 
 if user=="Shohan":
 
